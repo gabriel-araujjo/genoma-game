@@ -1,5 +1,28 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  #jogo
+  script(type="text/javascript", src="/javascripts/jquery-2.1.0.min.js")
+  script(type="text/javascript", src="/javascripts/kinetic-v5.0.1.min.js")
+  script(type="text/javascript", src="/javascripts/utils.js")
+  //- script(type="text/javascript", src="/javascripts/jogo.js")
+  script(type="text/javascript", src="/javascripts/jogador.js")
+  script(type="text/javascript", src="/javascripts/turn.js")
+  script(type="text/javascript", src="/javascripts/dado.js")
+  script(type="text/javascript", src="/javascripts/tabuleiro.js")
+
+  script(type="text/javascript").
+    var game = new GenomaGame(Math.min.apply(null, [$('#jogo').width()/685,$('#jogo').height()/368]), 'jogo');
+    
+    game.addPlayer(new Player('Vibrio cholerae', 'red'));
+    game.addPlayer(new Player('Streptococcus pneumoniae', 'green'));
+    game.addPlayer(new Player('Clostridium tetani', 'blue'));
+    game.addPlayer(new Player('Mycobacterium leprae', 'yellow'));
+    
+    game.start();
+    
+    
+    /*$(window).on('resize', function(){
+      var s= Math.min.apply(null, [$(window).width()/685,$(window).height()/368]);
+      game.scale = s;
+    });*/

@@ -1,5 +1,104 @@
+@import url(http://fonts.googleapis.com/css?family=Libre\+Baskerville);
+
 body
-  padding: 50px
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif
+	padding: 0
+	margin: 0
+	font-family:'Libre Baskerville', serif
+	font-size: 14px
+	background: #000
+	overflow: hidden
 a
-  color: #00B7FF
+	color: #00B7FF
+#jogo
+	margin: 0
+	padding: 0
+	position: fixed
+	top: 0
+	bottom: 0
+	left: 0
+	right: 0
+	overflow: hidden
+
+.q-wrapper
+	position: absolute;
+	z-index: 2;
+	color: #555;
+	background: url(/images/card_texture.jpg);
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 340px;
+
+.q-player-text {
+	text-align: center;
+	font-size: 18px;
+	line-height: 2;
+	background: rgba(0,0,0,.1);
+	box-shadow: 0 1px 3px rgba(0,0,0,.6);
+	margin-bottom: 16px
+}
+
+.color-red .q-player-text {
+	background: #FF5757;
+	color: #A50000;
+}
+
+.color-green .q-player-text {
+	background: #10D630;
+	color: #026416;
+}
+
+.color-blue .q-player-text {
+	background: #107FD6;
+	color: #024164;
+}
+
+.color-yellow .q-player-text {
+	background: #F8FF52;
+	color: #9AA51A;
+}
+
+.q-wording {
+	padding: 0 20px
+}
+.q-options {
+	counter-reset: list;
+	padding:0
+}
+.q-options li {
+	padding: 4px 20px;
+	list-style: none;
+	cursor: pointer
+	
+	&:hover,
+	&.selected {
+		background: rgba(126, 126, 126, 0.56)
+	}
+	
+	&:before {
+		counter-increment: list;
+    content: "(" counter(list, lower-alpha) ") ";
+	}
+	
+	
+}
+
+button {
+	background: #f0f0f0;
+	background-image: linear-gradient(to bottom, #f0f0f0, #dbdbdb);
+	border-radius: 3px;
+	font-family: 'Libre Baskerville', serif;
+	color: #555;
+	font-size: 18px;
+	padding: 5px 10px 5px 7px;
+	border: solid #555 1px;
+	text-decoration: none;
+	margin: 20px
+	cursor: pointer
+	&:hover,
+	&:active {
+		background: #e0e0e0;
+		background-image: linear-gradient(to bottom, #e0e0e0, #e6e6e6);
+		text-decoration: none;
+	}
+}

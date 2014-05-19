@@ -1,0 +1,311 @@
+[
+	{
+		"wording":"O genoma corresponde a toda a informação genética armazenada dentro da célula. Sabendo disso, responda: o que são seres haplóides e diplóides? Dê exemplos."
+	},
+	{
+		"wording":"O DNA de um cromossomo bacteriano é organizado em fita:",
+		"options":[
+			"simples circular fechada covalentemente",
+			"dupla linear",
+			"simples linear",
+			"dupla circular fechada covalentemente"
+		]
+	},
+	{
+		"wording":"O cromossomo bacteriano constitui um replicon. O que isto quer diser?"
+	},
+	{
+		"wording":"Sobre as sequências do pequeno tamanho do genoma procariótico é incorreto afirmar:",
+		"options":[
+			"há significativa redundância em genomas procarióticos",
+			"o genoma procariótico apresenta estrutura quase que exclusivamente dedicada à codificação de proteínas",
+			"há poucos pares de base separando sequências funcionais",
+			"geralmente ocorre sobreposição de genes"
+		]
+	},
+	{
+		"wording":"As bactérias apresentam, além de seu cromossomo único, unidades genéticas acessórias, os elementos genéticos móveis. Quem são eles?"
+	},
+	{
+		"wording":"Comente sobre a destribuição gênica em relação à orientação da replicação e da transcrição em E. coli e em relação à oriC."
+	},
+	{
+		"wording":"Os plasmídeos são elementos genéticos móveis. Sobre eles, é incorreto dizer:",
+		"options":[
+			"são considerados replicons",
+			"possuem uma forma extracelular",
+			"replicam-se automaticamente, independente do cromossomo bacteriano",
+			"podem conferir vantagem para as células que os contêm"
+		]
+	},
+	{
+		"wording":"Os plasmídeos R conferem vantagem à célula bacteriana, pois:",
+		"options":[
+			"conferem vantagens sociais para as bactérias, favorecendo sua adaptação ao ambiente",
+			"codificam bacteriocinas, que matam bactérias de espécies relacionadas",
+			"conferem resistência a antibióticos e outros agentes antibacterianos",
+			"permite a mobilização do cromossomo bacteriano para outra célula"
+		]
+	},
+	{
+		"wording":"Alguns plasmídeos são ditos epissomos. O que isto quer dizer?"
+	},
+	{
+		"wording":"Sobre a transferência de plasmídeos entre bactérias é incorreto afirmar:",
+		"options":[
+			"o processo é chamado conjugação bacteriana",
+			"depende exclusivamente das fimbrias sexuais",
+			"os plasmídeos com capacidade de dirigir sua própria transferência são chamados conjugativos",
+			"a transferência do DNA é iniciada no sítio de oriT"
+		]
+	},
+	{
+		"wording":"Os eucariotos são seres mais complexos que os procariotos. Qual das características a seguir sobre eucariotos está equivocada?",
+		"options":[
+			"o material genético está contido no núcleo, envolto pela carioteca",
+			"todos os seres eucariotos são diplóides",
+			"o DNA está dividido entre os cromossomos",
+			"contêm mais DNA que qualquer procarioto"
+		]
+	},
+	{
+		"wording":"O que significa dizer que o genoma possui uma porção de DNA que é codante?"
+	},
+	{
+		"wording":"",
+		"options":[
+		"13. Qual a porcentagem aproximada do genoma humano que é considerada codante?"
+		]
+	},
+	{
+		"wording":"Em seres procariotos, a maior parte do genoma é formada por DNA codante ou não-codante?"
+	},
+	{
+		"wording":"O valor C indica:",
+		"options":[
+			"o número de genes de uma espécie",
+			"a quantidade de conjuntos genômicos de uma espécie",
+			"a quantidade de DNA total do genoma de uma espécie",
+			"o número de cromossomos de uma espécie"
+		]
+	},
+	{
+		"wording":"O paradoxo do valor C consiste na impossibilidade de relacionar a quantidade de DNA de uma espécie com a sua posição na escala evolutiva, representada pela complexidade em características morfológicas, comportamentais e fisiológicas do organismo, por que isso ocorre?"
+	},
+	{
+		"wording":"A análise de cinética de renaturação objetiva a estimativa da porção do genoma que corresponde a sequências únicas e a sequências repetitivas. Descreva como é feito o procedimento."
+	},
+	{
+		"wording":"Sobre um gráfico de cinética de renaturação do genoma eucarioto é correto afirmar:",
+		"options":[
+			"geralmente apresenta dois componentes reassociativos",
+			"o primeiro componente reassociativo corresponde ao DNA de cópia única",
+			"o último componente reassociativo corresponde ao DNA altamente repetitivo",
+			"a grandeza C0t é característica desse tipo de gráfico"
+		]
+	},
+	{
+		"wording":"Em um gráfico de cinética de renaturação do DNA C<sub>0</sub>t elevado significa que a reassociação:",
+		"options":[
+			"foi lenta, devido a elevada presença de sequências únicas",
+			"foi rápida, devido a elevada presença de sequências repetidas",
+			"foi lenta, devido a elevada presença de sequências repetidas",
+			"foi rápida, devido a elevada presença de sequências únicas"
+		]
+	},
+	{
+		"wording":"Em eucariotos, grande parte dos genes faz parte de uma família de genes e são ditos parálogos. O que isso significa?",
+		"options":[
+			"estão organizados em tandem",
+			"são homólogos a genes de outra espécie",
+			"originam-se por duplicação de um gene e posterior divergência de um deles",
+			"têm funções necessariamente distintas"
+		]
+	},
+	{
+		"wording":"Genes que codificam rRNAs, tRNAs e histonas pertencem a fração de DNA moderadamente repetitiva (reassociação intermediária) e estão organizadas em arrajos de repetições em tandem. O que isso quer dizer?"
+	},
+	{
+		"wording":"A fração de DNA repetitivo difere em organismos eucariotos e procariotos. Qual a porcentagem dessa fração em procariotos e eucariotos?",
+		"options":[
+			"cerca de 50% em procariotos e 10% em eucariotos",
+			"cerca de 10% em procariotos e 90% em eucariotos",
+			"cerca de 2% em procariotos e 50% em eucariotos",
+			"cerca de 2% em procariotos e 97% em eucariotos"
+		]
+	},
+	{
+		"wording":"A fração de reassociação rápida do gráfico de cinética de renaturação de um genoma eucarioto corresponde ao DNA de sequência simples. Essa fração compreende cerca de 15% do DNA e geralmente é associada a regiões específicas do cromossomo. Quais são elas?",
+		"options":[
+			"centrômetros e telômeros",
+			"telômeros e genes do colágeno",
+			"centrômeros e genes de histonas",
+			"genes de colágeno e genes de histonas"
+		]
+	},
+	{
+		"wording":"Os elementos de transposição correspondem à fração de reassociação intermediária de genomas eucarióticos e são classificados em transposons e retrotransposons. Os transposons possuem uma região codificadora de uma enzima transposase, flanqueada por sequências repetidas invertidas. Nos retrotransposons a enzima codificada é uma:",
+		"options":[
+			"transposase, assim como nos transposons",
+			"DNA polimerase",
+			"girasse",
+			"transcriptase reversa"
+		]
+	},
+	{
+		"wording":"Sobre o DNA de cinética de renaturação lenta, é incorreto afirmar:",
+		"options":[
+			"consiste em sequências presentes apenas uma vez, ou algumas vezes, no genoma",
+			"possui sequências que codificam proteínas, como as histonas",
+			"é a última porção de reassociação no gráfico de cinética de renaturação",
+			"o gene do colágeno faz parte desta fração do DNA"
+		]
+	},
+	{
+		"wording":"Além do genoma nuclear, a célula eucariótica possui organelas com genoma próprio: mitocôndrias e cloroplastos. Sobre o genoma dessas organelas é incorreto afrimar:",
+		"options":[
+			"codifica algumas proteínas do seu próprio metabolismo",
+			"são constituídos de DNA circular de fita dupla",
+			"apenas uma cópia do genoma está presente em cada organela",
+			"é de pequeno tamanho, como o de procariotos"
+		]
+	},
+	{
+		"wording":"O cromossomo bacteriano se encontra na região do nucleóide e apresenta uma série de alças de DNA de fita dupla, fixa numa base possivelmente de proteína, que impedem que uma supertorção se propague entre as alças. Essas alças são chamadas domínios. Quantos domínios aproximadamente existem num genoma bacteriano e quantos kb de DNA possuem?",
+		"options":[
+			"50 domínios com 80 a 100 kb de DNA",
+			"50 domínios com 40 a 50 kb de DNA",
+			"100 domínios com 80 a 100 kb de DNA",
+			"100 domínios com 40 a 50 kb de DNA"
+		]
+	},
+	{
+		"wording":"A classe de molécula que predomina no nucleóide bacteriano é:",
+		"options":[
+			"RNA",
+			"DNA",
+			"proteínas"
+		]
+	},
+	{
+		"wording":"A cromatina é típica de células eucarióticas. Mas o que é cromatina? "
+	},
+	{
+		"wording":"Na interfase celular, a cromatina é dividida em dois tipos: eucromatina e heterocromatina. Qual a diferença entre elas? "
+	},
+	{
+		"wording":"A cromatina chega a conter duas vezes mais proteína que DNA. Elas são as proteínas não-histônicas são divididas em proteínas estruturais, como as do arcabouço cromossômico, e as envolvidas em processos genéticos, como as de transcrição e replicação. As histônicas ou histonas são, de longe, as mais numerosas. Cite os cinco tipos de histonas existentes."
+	},
+	{
+		"wording":"As histonas interagem com o DNA por possuírem alta proporção de aminoácidos:",
+		"options":[
+			"ácidos, principalmente glutamato e aspartato",
+			"ácido, principalmente lisina e arginina",
+			"básicos, principalmente lisina e arginina",
+			"básicos, principalmente glutamato e aspartato"
+		]
+	},
+	{
+		"wording":"O nucleossomo é a unidade estrutural básica da cromatina e consiste em aproximadamente 146 pb dando quase duas voltas em um octâmero de histonas. Esse octâmero possui duas cópias de cada histona a seguir:",
+		"options":[
+			"H1, H2A, H2B, H3",
+			"H2A, H2B, H3, H4",
+			"H1, H2A, H2B, H4",
+			"H1, H2A, H3, H4"
+		]
+	},
+	{
+		"wording":"A fita de 10 nm, cromatina em menor compactação, é sensível à digestão por DNase? Por quê?"
+	},
+	{
+		"wording":"A compactação da fita de 10 nm gera uma fita de 30 nm. Esta fita compõe as alças do próximo nível de compactação: a fibra de 300 nm. Tais fibras são dobradas para formar uma fibra de 250 nm de largura e esta, por sua vez, produz uma estrutura de 700 nm de largura, que constitui uma cromátide individual. Quantos nm terão o cromossomo encontrado na metáfase?",
+		"options":[
+			"1400 nm",
+			"350 nm",
+			"700 nm",
+			"1100 nm"
+		]
+	},
+	{
+		"wording":"O último nível de compactação da cromatina é auxiliado por sequências de DNA que atuam com proteínas específicas. Sabendo disso responda: o que é MAR e SAR?"
+	},
+	{
+		"wording":"Para a ocorrência de transcrição, os nucleossomos que porventura estejam presentes nas sequências promotoras do gene em questão devem ser removidos ou modificados, permitindo o acesso das enzimas da transcrição. Qual dos mecanismos a seguir está envolvido com a conversão da estrutura da cromatina para uma forma transcricionalmente ativa?",
+		"options":[
+			"desacetilação de histonas",
+			"silencing",
+			"remodelação da cromatina",
+			"metilação do DNA"
+		]
+	},
+	{
+		"wording":"Sobre a acetilação de histonas, fale a respeito da finalidade desse mecanismo e cite a enzima envolvida."
+	},
+	{
+		"wording":"O centrômero consiste numa região de constricção no cromossomo eucariótico. Sobre ele é incorreto afirmar:",
+		"options":[
+			"é um exemplo de heterocromatina facultativa",
+			"é constituído de sequências de DNA altamente repetitivas",
+			"tem papel na migração dos cromossomos durante a divisão celular",
+			"a ele se ligam as proteínas do cinetócoro durante a divisão celular"
+		]
+	},
+	{
+		"wording":"Os telômeros são sequências de DNA situadas nas pontas dos cromossomos. Sobre eles é correto afirmar:",
+		"options":[
+			"permanecem do mesmo tamanho a cada divisão de células somáticas",
+			"são exemplos de heterocromatina constitutiva",
+			"suas sequências são de cópia única",
+			"é degradado pela enzima telomerase"
+		]
+	},
+	{
+		"wording":"Sobre a cromatina eucariótica durante a replicação do DNA, comente a desestruturação e a remontagem dos nucleossomos nesse processo."
+	},
+	{
+		"wording":"Cite dois mecanismos compensatórios da replicação eucariótica para a baixa velocidade de movimento de suas forquilhas de replicação."
+	},
+	{
+		"wording":"Em que consiste a atividade de exonuclease 3’→ 5’ da DNA polimerase?"
+	},
+	{
+		"wording":"A proteína SSB, em procariontes, e proteína A, em eucariontes, possui função de:",
+		"options":[
+			"remover as torções do DNA",
+			"estabilizar a abertura do DNA, para que as fitas complementares não se pareiem",
+			"ligar o primer de RNA à fita-molde",
+			"remover bases pareadas erroneamente"
+		]
+	},
+	{
+		"wording":"A replicação do DNA permite que cada molécula de DNA filha seja composta por uma fita recém-sintetizada e uma fita parental. Esse tipo de replicação é caracterizada como sendo:",
+		"options":[
+			"conservativa",
+			"dispersiva",
+			"semiconservativa"
+		]
+	},
+	{
+		"wording":"A replicação em E. coli é bidirecional e inicia em uma origem de replicação e termina em um ponto chamados:",
+		"options":[
+			"oriT e terT",
+			"oriC e terT",
+			"oriT e terC",
+			"oriC e terC"
+		]
+	},
+	{
+		"wording":"A enzima primase sintetiza primers que são ligados à fita-molde de DNA para que se inicie a replicação. O que são primers?"
+	},
+	{
+		"wording":"Em que sentido a DNA polimerase sintetiza uma nova fita de DNA: 3’→5’ ou 5’→3’? Descreva a formação da ligação fosfodiéster."
+	},
+	{
+		"wording":"Por que a replicação não pode acontecer no sentido 3’→5’?"
+	},
+	{
+		"wording":"Por que a enzima telomerase é considerada uma transcriptase reversa?"
+	},
+	{
+		"wording":"Descreva a ação da telomerase no alongamento de telômeros."}
+]
